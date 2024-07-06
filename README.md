@@ -11,7 +11,7 @@
 <ul>
    <li>
     <div><a href="https://github.com/MarDSoul?tab=repositories&q=project&type=&language=&sort=">project</a> - repositories for projects</div>
-    <div><i>Has been deleted or made privacy status because became legacy and I didn't have time to do refactoring projects</i></div>
+    <div><i>Has been deleted or made privacy status because they became legacy and I didn't have time to do refactoring of projects</i></div>
   </li>
   <li>
     <div><a href="https://github.com/MarDSoul?tab=repositories&q=example&type=&language=&sort=">example</a> - repositories for examples when I need to show code</div>
