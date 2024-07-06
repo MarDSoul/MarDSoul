@@ -5,7 +5,7 @@
 <h4>About me</h4>
 <div>I'm an Android developer with 2+ years of experience. The most of all I like when my work is useful for users.</div>
 </br>
-<div>Main stack: Kotlin, Jetpack Compose, Coroutines/Flow, Dagger2/Hilt, Retrofit, Room, Jetpack libs: DataStore, Navigation, WorkManager</div>
+<div>Main stack: Kotlin, Jetpack Compose, Coroutines/Flow, Dagger2/Hilt, Retrofit, Jetpack libs: Room, DataStore, Navigation, WorkManager</div>
 
 <h4>Repositories whitch started from:</h4>
 <ul>
