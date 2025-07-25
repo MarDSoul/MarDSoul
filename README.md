@@ -17,9 +17,6 @@
     <div><a href="https://github.com/MarDSoul?tab=repositories&q=example&type=&language=&sort=">example</a> - repositories for examples when I need to show code</div>
   </li>
   <li>
-    <div><a href="https://github.com/MarDSoul?tab=repositories&q=ttt&type=&language=&sort=">ttt</a> - repositories for test tasks from employers</div>
-  </li>
-  <li>
     <div><a href="https://github.com/MarDSoul?tab=repositories&q=fork&type=&language=&sort=">fork</a> - repositories of forks</div>
   </li>
 </ul>
